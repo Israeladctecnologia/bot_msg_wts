@@ -52,7 +52,7 @@ for telefone in telefones:
             print('Usar Wts não localizado, tentando novamente...')
             sleep(5)
 
-    sleep(16)
+    sleep(24)
 
     pyautogui.click(1162,677, duration=3)
     sleep(22)
